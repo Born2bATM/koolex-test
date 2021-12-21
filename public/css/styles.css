@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.click-button,
+.title {
+  margin-left: 184px;
+}
+
+.title {
+  margin-top: 380px;
+  margin-right: 1014px;
+}
+
+.click-button {
+  margin-top: 36px;
+  margin-right: 1425px;
+  font-weight: bold;
+}
+
+.margin-mBody {
+  margin: 60px 77px;
+}
+
+.confirm-btn {
+  margin-bottom: 38px;
+  margin-top: 10px;
+}
+
+textarea {
+  width: 100%;
+}
